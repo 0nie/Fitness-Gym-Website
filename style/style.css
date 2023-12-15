@@ -711,9 +711,9 @@ nav{
 /* MEDIA QUERIES */
 
 /* MOBILE */
-@media(width >= 414px){
+@media(width > 300px){
     .nav-header .nav-logo a img{
-        width: 80px;
+        width: 100px;
     }
 
     .section-container .header-image img{
