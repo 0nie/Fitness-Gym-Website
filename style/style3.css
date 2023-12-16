@@ -278,3 +278,18 @@ body{
         padding: 30px;
     }
 }
+
+@media(max-width:450px){
+    .back-to-main{
+        font-size: 20px;
+    }
+
+    .title h2{
+       margin-left: 40px;
+       font-size: 40px;
+    }
+
+    .contact{
+        width:350px;
+    }
+}
