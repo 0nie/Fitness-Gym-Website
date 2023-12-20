@@ -32,7 +32,7 @@ body{
 }
 
 .contactUs .title h2{
-    color: var(--text-dark);
+    color: var(--primary-color);
     font-weight: 500;
 }
 
@@ -134,7 +134,7 @@ body{
 }
 
 .info{
-    background-color: var(--text-dark);
+    background-color: #0e3959;
 }
 
 .info h3{
