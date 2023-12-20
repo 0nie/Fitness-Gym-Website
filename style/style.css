@@ -212,6 +212,7 @@ nav{
 .header-image img{
     max-width: 500px;
     margin: auto;
+    height: 580px;
 }
 
 .header-content h4{
@@ -780,6 +781,8 @@ nav{
 
     .calculate__container img{
         margin-top: 60px;
+        width: 360px;
+        height: 404px;
     }
 }
 /* COMPUTER/LAPTOP */
